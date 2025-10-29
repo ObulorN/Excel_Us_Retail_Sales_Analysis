@@ -2,7 +2,7 @@
 ## US Monthly Retail Sales Data Analysis
 
 ![Logo](images/dashboard1.gif)
->>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
+
 
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
@@ -74,7 +74,7 @@ And below are the charts:
   ![](images/trending_leisure_stores_book.png)
 - From Excel
   ![](images/trending_leisure_stores.png)
->>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
+
 
 
 ### What is the yearly trend of sales at women's and men's  clothing store? (book page 81)
@@ -90,7 +90,7 @@ Here is result for the table:
     ![](images/men_women_chart_book.png)
   - Excel
     ![](images/men_women_chart_excel.png)
->>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
+
 
 
 
@@ -108,7 +108,7 @@ And below are the charts for both Book and Excel respectively:
 
 
 ![](images/yearly_diff_men_women_excel.png)
->>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
+
 
 
 ### What is the top ten sector/store with the most sales?
