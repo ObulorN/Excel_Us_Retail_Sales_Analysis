@@ -1,12 +1,12 @@
 
 ## US Monthly Retail Sales Data Analysis
-![insert gif image here](images\dashboard1.gif)
+![Dashboard Gif Image](images/dashboard1.gif)
 
 ## Introduction:
- While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Lucas; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
+ While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
  (O’Reilly)  Copyright 2021 ) by Cathy Tanimura.  
 
- Apparently while Lucas used excel for his analysis; Tani mara on the other hand used SQL(Structure  Query Language).
+ Apparently while Luck Barousse used excel for his analysis; Cathy Tanimura on the other hand used SQL(Structure  Query Language).
 
  And out of curiosity I decide to used the knowlede gained from the Excel course on the dataset of the book to see if i will get the same results table-wise, chart-wise and query-wise  when compared to that of the SQL book.
  This project focuses mainly on the Trending section of Chapter 3 of the Book.
@@ -62,29 +62,29 @@ So, with the dataset out of the way lets delve into the analysis.
 Using Excel Pivot Table and Chart, it was  observed that the sum of the sales data based on the year and kind of business which in this case are: Book store; Hobby,toy,game store; and sporting goods store returned same data and similar chart as seen below:
 
 - Table snapshot from book:
-  ![](images\trending_leisure_stores_table_book.png)
+  ![Trending Leisure Image](images/trending_leisure_stores_table_book.png)
 - Table snapshot from Excel:
-  ![](images\trending_leisure_stores_table.png)
+  ![Trending Leisure Image](images/trending_leisure_stores_table.png)
 And below are the charts:
 
 - From Book
-  ![](images\trending_leisure_stores_book.png)
+  ![Trending Leisure Image](images/trending_leisure_stores_book.png)
 - From Excel
-  ![](images\trending_leisure_stores.png)
+  ![Trending Leisure Image](images/trending_leisure_stores.png)
 
 
 ### What is the yearly trend of sales at women's and men's  clothing store? (book page 81)
 Still using Excel Pivot Table and Chart, the below result was obtained, both for the table and chart.
 Here is result for the table:
   - Book
-       ![](images\yearly_women_men_trending_book.png)
+       ![Trending Women To Men Image](images/yearly_women_men_trending_book.png)
   - Excel
-       ![](images\yearly_women_men_trending_excel.png) 
+       ![Trending Women To Men Image](images/yearly_women_men_trending_excel.png) 
   Here is result for the chart:
   - Book
-    ![](images\men_women_chart_book.png)
+    ![Trending Women To Men Image](images/men_women_chart_book.png)
   - Excel
-    ![](images\men_women_chart_excel.png)
+    ![Trending Women To Men Image](images/men_women_chart_excel.png)
 
 
 
@@ -92,19 +92,19 @@ Here is result for the table:
 
 Still taking the same pattern, we have :
 - Book Table
-  ![](images\women_men_diff_table_book.png)
+  ![Women To Men Difference Image](images/women_men_diff_table_book.png)
 - Excel Table
-  ![](images\women_men_diff_table_excel.png)
+  !Women To Men Difference Image[](images/women_men_diff_table_excel.png)
 
 And below are the charts for both Book and Excel respectively:
- ![](images\yearly_diff_men_women_book.png)
+ ![Women To Men Difference Image](images/yearly_diff_men_women_book.png)
 
 
-![](images\yearly_diff_men_women_excel.png)
+![Women To Men Difference Image](images/yearly_diff_men_women_excel.png)
 
 
 ### What is the top ten sector/store with the most sales?
- I equally went to see analize the ten topmost sector/stores with the highest.
+ I equally went  further to  analize the ten topmost sector/stores with the highest sales.
 
 
 ### Conclusion:
