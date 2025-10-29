@@ -1,6 +1,10 @@
 
 ## US Monthly Retail Sales Data Analysis
+<<<<<<< HEAD
 ![Dashboard Gif Image](images/dashboard1.gif)
+=======
+![Logo](images/dashboard1.gif)
+>>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
 
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
@@ -62,6 +66,7 @@ So, with the dataset out of the way lets delve into the analysis.
 Using Excel Pivot Table and Chart, it was  observed that the sum of the sales data based on the year and kind of business which in this case are: Book store; Hobby,toy,game store; and sporting goods store returned same data and similar chart as seen below:
 
 - Table snapshot from book:
+<<<<<<< HEAD
   ![Trending Leisure Image](images/trending_leisure_stores_table_book.png)
 - Table snapshot from Excel:
   ![Trending Leisure Image](images/trending_leisure_stores_table.png)
@@ -71,12 +76,24 @@ And below are the charts:
   ![Trending Leisure Image](images/trending_leisure_stores_book.png)
 - From Excel
   ![Trending Leisure Image](images/trending_leisure_stores.png)
+=======
+  ![](images/trending_leisure_stores_table_book.png)
+- Table snapshot from Excel:
+  ![](images/trending_leisure_stores_table.png)
+And below are the charts:
+
+- From Book
+  ![](images/trending_leisure_stores_book.png)
+- From Excel
+  ![](images/trending_leisure_stores.png)
+>>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
 
 
 ### What is the yearly trend of sales at women's and men's  clothing store? (book page 81)
 Still using Excel Pivot Table and Chart, the below result was obtained, both for the table and chart.
 Here is result for the table:
   - Book
+<<<<<<< HEAD
        ![Trending Women To Men Image](images/yearly_women_men_trending_book.png)
   - Excel
        ![Trending Women To Men Image](images/yearly_women_men_trending_excel.png) 
@@ -85,6 +102,16 @@ Here is result for the table:
     ![Trending Women To Men Image](images/men_women_chart_book.png)
   - Excel
     ![Trending Women To Men Image](images/men_women_chart_excel.png)
+=======
+       ![](images/yearly_women_men_trending_book.png)
+  - Excel
+       ![](images/yearly_women_men_trending_excel.png) 
+  Here is result for the chart:
+  - Book
+    ![](images/men_women_chart_book.png)
+  - Excel
+    ![](images/men_women_chart_excel.png)
+>>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
 
 
 
@@ -92,6 +119,7 @@ Here is result for the table:
 
 Still taking the same pattern, we have :
 - Book Table
+<<<<<<< HEAD
   ![Women To Men Difference Image](images/women_men_diff_table_book.png)
 - Excel Table
   !Women To Men Difference Image[](images/women_men_diff_table_excel.png)
@@ -101,6 +129,17 @@ And below are the charts for both Book and Excel respectively:
 
 
 ![Women To Men Difference Image](images/yearly_diff_men_women_excel.png)
+=======
+  ![](images/women_men_diff_table_book.png)
+- Excel Table
+  ![](images/women_men_diff_table_excel.png)
+
+And below are the charts for both Book and Excel respectively:
+ ![](images/yearly_diff_men_women_book.png)
+
+
+![](images/yearly_diff_men_women_excel.png)
+>>>>>>> 997f7287067555cb489125dd3cdb085f4cd1749e
 
 
 ### What is the top ten sector/store with the most sales?
