@@ -65,15 +65,15 @@ Using Excel Pivot Table and Chart, it was  observed that the sum of the sales da
 
 - Table snapshot from book:
 
-  ![](images/trending_leisure_stores_table_book.png)
+  ![Image](images/trending_leisure_stores_table_book.png)
 - Table snapshot from Excel:
-  ![](images/trending_leisure_stores_table.png)
+  ![Image](images/trending_leisure_stores_table.png)
 And below are the charts:
 
 - From Book
-  ![](images/trending_leisure_stores_book.png)
+  ![Image](images/trending_leisure_stores_book.png)
 - From Excel
-  ![](images/trending_leisure_stores.png)
+  ![Image](images/trending_leisure_stores.png)
 
 
 
@@ -82,14 +82,14 @@ Still using Excel Pivot Table and Chart, the below result was obtained, both for
 Here is result for the table:
   - Book
 
-       ![](images/yearly_women_men_trending_book.png)
+       ![Image](images/yearly_women_men_trending_book.png)
   - Excel
-       ![](images/yearly_women_men_trending_excel.png) 
+       ![Image](images/yearly_women_men_trending_excel.png) 
   Here is result for the chart:
   - Book
-    ![](images/men_women_chart_book.png)
+    ![Image](images/men_women_chart_book.png)
   - Excel
-    ![](images/men_women_chart_excel.png)
+    ![Image](images/men_women_chart_excel.png)
 
 
 
@@ -99,15 +99,15 @@ Here is result for the table:
 Still taking the same pattern, we have :
 - Book Table
 
-  ![](images/women_men_diff_table_book.png)
+  ![Image](images/women_men_diff_table_book.png)
 - Excel Table
   ![](images/women_men_diff_table_excel.png)
 
 And below are the charts for both Book and Excel respectively:
- ![](images/yearly_diff_men_women_book.png)
+ ![Image](images/yearly_diff_men_women_book.png)
 
 
-![](images/yearly_diff_men_women_excel.png)
+![Image](images/yearly_diff_men_women_excel.png)
 
 
 
