@@ -1,7 +1,7 @@
 
 ## US Monthly Retail Sales Data Analysis
 
-<img src ="./images/dashboard1.gif">
+<img src ="./images/dashboard1.gif"/>
 
 ![alt text](~/images/cover_sql_book.png)
 
@@ -67,7 +67,7 @@ Using Excel Pivot Table and Chart, it was  observed that the sum of the sales da
 - Table snapshot from book:
 
 
-  <img src ="./images/trending_leisure_stores_table_book.png">
+  <img src ="./images/trending_leisure_stores_table_book.png"/>
 
 
 - Table snapshot from Excel:
@@ -77,7 +77,8 @@ And below are the charts:
 
 
 - From Book
-  ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/trending_leisure_stores_book.png)
+  ![Image](images/trending_leisure_stores_book.png)
+  
 - From Excel
 
   ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/trending_leisure_stores.png)
