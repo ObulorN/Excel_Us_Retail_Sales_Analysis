@@ -3,7 +3,7 @@
 
 <img src ="./images/dashboard1.gif">
 
-![alt text](/images/cover_sql_book.png)
+![alt text](/images/dashboard.png)
 
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
