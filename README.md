@@ -1,7 +1,11 @@
 
 ## US Monthly Retail Sales Data Analysis
 
-<img src ="./images/dashboard1.gif">
+<img src ="./images/dashboard1.gif" alt="image">
+
+<picture>
+  <source media="(min-width:650px)" srcset="/images/dashboard.png">
+  </picture>
 
 ![alt text](./images/dashboard.png)
 
