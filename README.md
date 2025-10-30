@@ -1,9 +1,9 @@
 
 ## US Monthly Retail Sales Data Analysis
 
-<img src ="./images/dashboard1.gif"/>
+<img src ="./images/dashboard1.gif">
 
-![alt text](~/images/cover_sql_book.png)
+![alt text](/images/cover_sql_book.png)
 
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
@@ -71,17 +71,17 @@ Using Excel Pivot Table and Chart, it was  observed that the sum of the sales da
 
 
 - Table snapshot from Excel:
-  ![Image](~/main/images/trending_leisure_stores_table.png)
+  ![Image](/images/trending_leisure_stores_table.png)
   
 And below are the charts:
 
 
 - From Book
-  ![Image](images/trending_leisure_stores_book.png)
+  ![Image](/images/trending_leisure_stores_book.png)
   
 - From Excel
 
-  ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/trending_leisure_stores.png)
+  ![Image](/images/trending_leisure_stores.png)
 
 
 
@@ -90,18 +90,18 @@ Still using Excel Pivot Table and Chart, the below result was obtained, both for
 Here is result for the table:
   - Book
 
-       ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/yearly_women_men_trending_book.png)
+       ![Image](/images/yearly_women_men_trending_book.png)
 
   - Excel
-       ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/yearly_women_men_trending_excel.png) 
+       ![Image](/images/yearly_women_men_trending_excel.png) 
 
   Here is result for the chart:
   - Book
 
-    ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/men_women_chart_book.png)
+    ![Image](/images/men_women_chart_book.png)
 
   - Excel
-    ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/men_women_chart_excel.png)
+    ![Image](/images/men_women_chart_excel.png)
 
 
 
@@ -113,17 +113,17 @@ Still taking the same pattern, we have :
 - Book Table
 
 
-  ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/women_men_diff_table_book.png)
+  ![Image](/images/women_men_diff_table_book.png)
 
 - Excel Table
-  ![](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/women_men_diff_table_excel.png)
+  ![](/images/women_men_diff_table_excel.png)
 
 
 And below are the charts for both Book and Excel respectively:
- ![Image](images/yearly_diff_men_women_book.png)
+ ![Image](/images/yearly_diff_men_women_book.png)
 
 
-![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/yearly_diff_men_women_excel.png)
+![Image](/images/yearly_diff_men_women_excel.png)
 
 
 
