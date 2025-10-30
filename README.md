@@ -1,7 +1,7 @@
 
 ## US Monthly Retail Sales Data Analysis
 
-<img src="/images/dashboard1.gif" alt="Dashboard image" width="250">
+<img src="./images/dashboard1.gif" alt="Dashboard image" width="250">
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
  (O’Reilly)  Copyright 2021 ) by Cathy Tanimura.  
