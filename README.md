@@ -1,9 +1,9 @@
 
 ## US Monthly Retail Sales Data Analysis
 
-<img src ="images/dashboard1.gif">
+<img src ="./images/dashboard1.gif">
 
-![alt text](images/cover_sql_book.png)
+![alt text](~/images/cover_sql_book.png)
 
 ## Introduction:
  While going through this wonderful Excel course (Excel for Data Analytics - Full Course) by Luck Barousse; i was at the same time reading this  wonderful  data analysis book (SQL for Data Analysis
@@ -67,10 +67,12 @@ Using Excel Pivot Table and Chart, it was  observed that the sum of the sales da
 - Table snapshot from book:
 
 
-  <img src ="images/trending_leisure_stores_table_book.png">
+  <img src ="./images/trending_leisure_stores_table_book.png">
+
 
 - Table snapshot from Excel:
-  ![Image](https://raw.githubusercontent.com/ObulorN/Excel_Us_Retail_Sales_Analysis/refs/heads/main/images/trending_leisure_stores_table.png)
+  ![Image](~/main/images/trending_leisure_stores_table.png)
+  
 And below are the charts:
 
 
