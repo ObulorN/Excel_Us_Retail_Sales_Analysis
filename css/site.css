@@ -1,5 +1,8 @@
 html {
   font-size: 14px;
+  margin-left: 16px;
+    margin-right: 16px;
+    background-color: white;
 }
 
 @media (min-width: 768px) {
@@ -18,37 +21,43 @@ html {
 }
 
 body {
-    margin-left: 16px;
-    margin-right: 16px;
-    background-color: white;
+    
 }
 .headerDesktop {
     height: 220px;
-    background: linear-gradient(0deg, rgba(25, 93, 131, 0.8), rgba(25, 93, 131, 0.8)), url('/images/header.png' );
+    background: linear-gradient(0deg, rgba(25, 93, 131, 0.8), rgba(25, 93, 131, 0.8)), url('/Resources/sql_excel.png' );
     /* background-image: url('/images/header.jpg' );*/
     background-repeat: no-repeat;
   padding-top: 20px;
 }
 .headerMobile {
-    height: 180px;
-    background: linear-gradient(0deg, rgba(25, 93, 131, 0.8), rgba(25, 93, 131, 0.8)), url('/images/header.png' );
+    height: 190px;
+    background: linear-gradient(0deg, rgba(25, 93, 131, 0.8), rgba(25, 93, 131, 0.8)), url('/Resources/sql_excel.png' );
     /* background-image: url('/images/header.jpg' );*/
     background-repeat: no-repeat;
   padding-top: 20px;
 }
-footer {
+.footer {
     position: absolute;
     bottom: 0;
     background-color: #004B76;
-    width: 97%;
-    padding: 2px
+    width: 100%;
+    
 }
 .txtWhiteheader {
     color: white;
-    font-family: "  Tahoma, Geneva, Verdana, sans-serif ";
-    font-size: 5vw;
-    margin-left: 16px;
+    font-family: " Verdana, Tahoma, Geneva,, sans-serif ";
+    font-size: 1.5vw;
+    margin-left: 4px;
     align-content:center;
+}
+
+.txtWhiteheaderMobile {
+  color: white;
+  font-family: " Verdana, Tahoma, Geneva,, sans-serif ";
+  font-size: 3vw;
+  margin-left: 4px;
+  align-content:center;
 }
 .primaryColor{
     background-color: #195d83;
@@ -57,20 +66,8 @@ footer {
 .bgCollapse {
     background-color: #195d83;
 }
-.buttoncontinue {
-    background-color: #195d83;
-    color: white;
-    width: 40px;
-    padding: 2px;
-    border: 2px solid #e5edf1;
-    border-radius: 5px;
-}
-.buttoncontinue:hover {
-    background-color: #004B76;
-    color: white;
-    width: 40px;
-    padding: 2px;
-   
+.textColor{
+    color:white;
 }
 
 
@@ -104,69 +101,16 @@ footer {
     background-color:white;
 }
 
-.divcol1 {
-    border: 2px solid #d8d8d8;
-    margin-right: 8px;
-    margin-left: 0;
-    padding-top: 0px;
-    overflow: hidden;
-    border-start-end-radius: 20px;
-    border-start-start-radius: 20px ;
-    z-index: 1;
-}
 
 .centerdiv {
     justify-content: center;
     align-items: center;
     display: flex;
+    padding-top:1%;
 }
 .containerBG{
     background-color:#f2f2f2;
 }
 
- /* Dropdown Button */
-.dropbtn {
-    color: white;
-    border: none;
-    cursor: pointer;
-    z-index: 1;
-}
 
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-  background-color: #2980B9;
-}
 
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-    display: inline-block;
-    z-index: 9999;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    /*  position: absolute;*/
-    
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 9999;
-}
-
-/* Links inside the dropdown */
-    .dropdown-content a {
-        
-        color: black;
-        padding: 4px 8px;
-        text-decoration: none;
-        display: block;
-        z-index: 9999;
-    }
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
-.show {display:block;} 
